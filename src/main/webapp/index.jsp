@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NEYMAR COMBACK At WORLD CUP RONALDO </h2>
+      <h2>NEYMAR COMBACK At WORLD  </h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
